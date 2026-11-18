@@ -1,0 +1,31 @@
+body {
+    background-color: #202020;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.calculadora {
+    background-color: #111111;
+    width: 340px;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.linha {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 10px;
+}
+
+button{
+    width: 70px;
+    height: 70px;
+    background-color: #38383e;
+    color: white;
+    border: none;
+    border-radius: 18px;
+    font-size: 25px;
+}
+
